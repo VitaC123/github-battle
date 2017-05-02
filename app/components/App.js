@@ -1,5 +1,6 @@
 var React = require('react');
-var Popular = require('./Popular'); 
+var Popular = require('./Popular');
+var ReactRouter = require('react-router-dom');
 
 // Test component
 class App extends React.Component {
